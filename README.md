@@ -10,5 +10,4 @@ A simple chat written in python for anime ai
 ## How to Run
 Run: `python anime.py`
 
-## Similar to TavernAI
-This app provides a console interface for chatting with customizable AI characters, inspired by TavernAI but focused on simple template-based responses.
+## This AI is re-build. First version: https://github.com/Yrashka2024/Anime-chat
