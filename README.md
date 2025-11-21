@@ -3,7 +3,7 @@ A simple chat written in python for anime ai
 
 ## Features
 - Character selection (pre-built and custom)
-- Chat interface
+- AI can open links and apps 
 - Custom character creation
 - Template-based responses
 
